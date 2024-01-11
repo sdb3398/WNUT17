@@ -11,4 +11,5 @@ In this section we upload the two dataset train and test. We concatenate the two
 ### DATA VISUALIZATION
 Visual representazion of our data: 
 - first of all we create a **word cloud** of our text dataset superimposing the words onto a mask of a famous bird.
+  
 - Then, we plot a **waffle chart** that represents the proportions of different IOB tags in our dataset.
