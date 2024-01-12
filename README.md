@@ -49,11 +49,11 @@ The Logistic Regression and the Dummy classifier both have a high accuracy in pr
 
 Dummy Classifier is a classifier model that makes predictions without trying to find patterns in the data. The default model essentially looks at what label is more frequent in the training dataset and makes predictions based on that label. Since we have a so unbalanced class, these two models present a good level of accuracy because in just taking into consideration the 'O' class we can label correctly the 89% of our dataset.
 
-![conf matrix bert]()
+![conf matrix bert](images/confusion_matrix_bert.png)
 
 ## Comparison on models' accuracies
 
-![accuracies]()
+![accuracies](images/accuracies.png)
 
 ## Results
 
